@@ -25,10 +25,10 @@ cd movies-api
 npm install
 
 # Start the development server
-npm run dev
+npm run start
 ```
 
-#Environment Variables Setup
+##Environment Variables Setup
 Create a .env file in the root directory (or copy from .env.example) and configure the following:
 
 ```bash
