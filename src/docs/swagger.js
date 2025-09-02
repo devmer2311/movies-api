@@ -6,7 +6,7 @@ const options = {
     openapi: '3.0.0',
     info: { title: 'Movie API', version: '1.0.0' },
     servers: [{ url: 'http://localhost:3000/api' },// local
-      { url: 'https://your-render-app.onrender.com/api' } // deployed 
+      { url: 'https://movies-api-8svf.onrender.com/api' } // deployed 
               ],
     components: {
       schemas: {
