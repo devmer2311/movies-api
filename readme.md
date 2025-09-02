@@ -28,7 +28,7 @@ npm install
 npm run start
 ```
 
-##Environment Variables Setup
+Environment Variables Setup
 Create a .env file in the root directory (or copy from .env.example) and configure the following:
 
 ```bash
@@ -43,6 +43,9 @@ Server will run at:
 API Base URL:  
 👉 http://localhost:5000/api
 
+Deployed API Base URL (Render):
+👉 https://movies-api-8svf.onrender.com/api
+
 ---
 
 ## 🧪 How to Run Tests
@@ -55,3 +58,11 @@ npm test
 ## 📖 Swagger Documentation
 Swagger UI is available at:  
 👉 http://localhost:3000/api/docs
+
+Deployed Swagger UI:
+👉 https://movies-api-8svf.onrender.com/api/docs
+
+👉 In Swagger UI, select the server:
+https://movies-api-8svf.onrender.com/api
+
+Explore all the API routes.
